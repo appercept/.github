@@ -1,1 +1,1 @@
-![Appercept](/assets/banner.png)
+![Appercept](/assets/banner.jpg)
