@@ -1,4 +1,4 @@
-\![Appercept](/assets/banner.jpg)
+![Appercept](/assets/banner.jpg)
 
 **Developer tools for Delphi.** Cloud connectivity, HTTP testing, and more.
 
